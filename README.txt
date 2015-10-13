@@ -1,11 +1,19 @@
-Please see the Checker Framework manual.
 
-It appears in this repository:
+The Checker Framework plugin
+=============================
 
-  * checker/manual/manual.html
-  * checker/manual/manual.pdf
+There is a tutorial for the plugin:
+   http://types.cs.washington.edu/checker-framework/tutorial/
 
-It also appears on the web:
+For more information, see http://types.cs.washington.edu/checker-framework/
 
-  * http://types.cs.washington.edu/checker-framework/current/checker-framework-manual.html
-  * http://types.cs.washington.edu/checker-framework/current/checker-framework-manual.pdf
+The tool was originally presented in this paper http://homes.cs.washington.edu/~mernst/pubs/pluggable-checkers-issta2008.pdf.
+
+This repository is not the original repository for this tool. Here are some links to the original project:
+
+A Video of the Tool https://www.youtube.com/watch?v=eQAs-eJ5a8c
+In this repository,  you will find:
+
+1.Source code 
+2.The original tool (available)
+This repository was constructed by Kahan Prabhu, Harini Reddy, Priyadarshini Rajagopal and Karan Singh Dagar under the supervision of Emerson Murphy-Hill.
