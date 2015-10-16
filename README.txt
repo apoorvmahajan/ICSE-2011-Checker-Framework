@@ -12,6 +12,3 @@ In this repository, for CheckerFramework you will find:
 
 This repository was constructed by Kahan Prabhu, Harini Reddy Kumbum, Priyadarshini Rajgopal and Karan Dagar under the supervision of Emerson Murphy-Hill.
 
-<www.google.com>
-
-
