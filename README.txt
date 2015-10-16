@@ -1,4 +1,4 @@
-This repository is contains information related to the tool Checker Framework presented in the International Conference on Software Engineering, 2011. The tool was originally presented in [this paper]: http://homes.cs.washington.edu/~mernst/pubs/pluggable-checkers-issta2008.pdf
+This repository contains information related to the tool Checker Framework presented in the International Conference on Software Engineering, 2011. The tool was originally presented in [this paper](http://homes.cs.washington.edu/~mernst/pubs/pluggable-checkers-issta2008.pdf)
 
 This repository is not the original repository for this tool. Here are some links to the original project:
 
@@ -12,4 +12,4 @@ In this repository, for CheckerFramework you will find:
 
 This repository was constructed by Kahan Prabhu, Harini Reddy Kumbum, Priyadarshini Rajgopal and Karan Dagar under the supervision of Emerson Murphy-Hill. Thanks
 
-[ksffkb](www.google.com)
+
