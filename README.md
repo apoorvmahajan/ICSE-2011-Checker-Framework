@@ -1,6 +1,6 @@
 This repository contains information related to the tool Checker Framework presented in the International Conference on Software Engineering, 2011. The tool was originally presented in [this paper.](http://homes.cs.washington.edu/~mernst/pubs/pluggable-checkers-issta2008.pdf)
 
-This repository is <b>NOT</b> the original repository for this tool. Here are some links to the original project:
+This repository is <i><b>NOT</b></i> the original repository for this tool. Here are some links to the original project:
 
 * [The Official Project Page, including source code.](http://types.cs.washington.edu/checker-framework/)
 
