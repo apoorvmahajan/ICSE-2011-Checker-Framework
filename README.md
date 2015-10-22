@@ -3,6 +3,8 @@ This repository contains information related to the tool Checker Framework prese
 This repository <i><b>IS NOT</b></i> the original repository for this tool. Here are some links to the original project:
 
 * [The Official Project Page, including source code.](http://types.cs.washington.edu/checker-framework/)
+* [The Tool on the CommandLine](http://types.cs.washington.edu/checker-framework/current/checker-framework.zip)
+* [The Tool as an Eclipse Plugin](http://http://types.cs.washington.edu/checker-framework/eclipse/)
 * [A Video of the Tool.](https://www.youtube.com/watch?v=eQAs-eJ5a8c)
 
 In this repository, for CheckerFramework you will find:
